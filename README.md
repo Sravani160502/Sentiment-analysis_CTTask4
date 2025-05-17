@@ -1,7 +1,7 @@
 **COMPANY** : CODTECH IT SOLUTIONS  
 **NAME** : V Sravani  
 **INTERN ID** : CT12WVZG  
-**DOMAIN** : Data Analytics  
+**DOMAIN** : Data Analytics   
 **DURATION** : 12 weeks  
 **MENTOR** : Neela Santhosh Kumar 
 
