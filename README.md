@@ -11,3 +11,7 @@ As part of Task-4 of the internship at CODTECH, the objective was to perform sen
 
 OUTPUT(some of them)
 
+![Image](https://github.com/user-attachments/assets/01802401-11d9-4b0a-9a04-1d6271cc96c5)
+![Image](https://github.com/user-attachments/assets/09a3e895-7662-4e7f-a49a-61a5c990abf7)
+![Image](https://github.com/user-attachments/assets/079c57f0-f96f-4ecb-888a-842b63d7874a)
+![Image](https://github.com/user-attachments/assets/1c10dc4a-5dc5-42b5-a31b-b4fb58c4b934)
